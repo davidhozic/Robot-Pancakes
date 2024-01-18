@@ -28,8 +28,16 @@ Finally, on the right of the cell the drop-off for the cooked pancakes is placed
 Showcase
 ===================
 The following videos show how the robot works.
-
+The following images are YouTube videos.
 
 
 .. image:: https://i.ytimg.com/vi/hvL5HrFYIbQ/maxresdefault.jpg
     :target: https://www.youtube.com/watch?v=hvL5HrFYIbQ
+
+
+.. image:: https://i.ytimg.com/vi/rapcsV_Vs6E/maxresdefault.jpg
+    :target: https://www.youtube.com/watch?v=rapcsV_Vs6E
+
+
+.. image:: https://i.ytimg.com/vi/Xcvc2gvJSdQ/maxresdefault.jpg
+    :target: https://www.youtube.com/watch?v=Xcvc2gvJSdQ
