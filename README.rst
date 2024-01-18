@@ -31,13 +31,19 @@ The following videos show how the robot works.
 The following images are **YouTube videos**.
 
 
-.. image:: https://i.ytimg.com/vi/hvL5HrFYIbQ/maxresdefault.jpg
+.. figure:: https://i.ytimg.com/vi/hvL5HrFYIbQ/maxresdefault.jpg
     :target: https://www.youtube.com/watch?v=hvL5HrFYIbQ
 
+    Pouring the mass
 
-.. image:: https://i.ytimg.com/vi/rapcsV_Vs6E/maxresdefault.jpg
+
+.. figure:: https://i.ytimg.com/vi/rapcsV_Vs6E/maxresdefault.jpg
     :target: https://www.youtube.com/watch?v=rapcsV_Vs6E
 
+    Flipping the pancake
 
-.. image:: https://i.ytimg.com/vi/Xcvc2gvJSdQ/maxresdefault.jpg
+
+.. figure:: https://i.ytimg.com/vi/Xcvc2gvJSdQ/maxresdefault.jpg
     :target: https://www.youtube.com/watch?v=Xcvc2gvJSdQ
+
+    Serving the pancake
