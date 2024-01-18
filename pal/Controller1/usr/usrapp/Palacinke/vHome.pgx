@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="vHome">
+    <Locals>
+      <Local name="l_pHome" type="pointRx" xsi:type="array" size="1" />
+      <Local name="l_pLokalnoGor" type="pointRx" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+  nTaskWorking = nTaskWorking + 1
+  //l_pHome=jointToPoint(flange,world,jHome)
+  cConfigHome=pHome.config
+  l_pLokalnoGor=here(flange, world)
+  // Vedno premakni za visino 60mm
+  // Ni pomembno katero orodje je izbrano saj se premikamo po smereh globalnega sistemu
+  // Orodje je pomembno tu le za dolocanje trenutne pozicija, a ni vazno kaj izberemo
+  // saj orientacije ne bomo spreminjali, prav tako pa je premik relativen oz. je
+  // RAZLIKA v visini ENAKA, ne glede na to katero orodje je izbrano
+  l_pLokalnoGor.trsf.z= l_pLokalnoGor.trsf.z + 60
+  l_pLokalnoGor={l_pLokalnoGor.trsf,cConfigHome}
+  movel(l_pLokalnoGor,flange,mSrednje)
+  waitEndMove()
+  movel(pHome,flange,mSrednje)
+  waitEndMove()
+  sDiag="Sem v osnovnem položaju"
+  nTaskWorking = nTaskWorking - 1
+end]]></Code>
+  </Program>
+</Programs>

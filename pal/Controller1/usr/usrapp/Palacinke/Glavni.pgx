@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="Glavni">
+    <Code><![CDATA[begin
+
+  // pečenje samo ene palačinke
+
+  // movej(ji,tSefla,mNomSpeed) ??
+
+  if isSettled()
+    nTaskWorking[0] = nTaskWorking[0] + 1
+    call cakajProgress(1)
+    call DodajMaso()
+    sDiag="Peka"
+    // Posodabljaj progress bar in cakaj dokler je minulu manh od nCas_peke1
+    call cakajProgress(nCas_peke1)
+    call obrat()
+    sDiag="Peka"
+    // Posodabljaj progress bar in cakaj dokler je minulu manh od nCas_peke2
+    call cakajProgress(nCas_peke2)
+    call naKroznik()
+    // Povecaj stevec narejenih palacinke
+    nCounter = nCounter + 1
+    nTaskWorking[0] = nTaskWorking[0] - 1
+  endIf
+end]]></Code>
+  </Program>
+</Programs>

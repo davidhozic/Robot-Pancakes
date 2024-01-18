@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="start">
+    <Code><![CDATA[begin
+
+  userPage("pala_cinke")
+  call cakajProgress(1)
+  enablePower()
+  setMonitorSpeed(50)
+
+  taskCreate "Safety",80,safety()
+
+  movej(pHome,flange,mSrednje)
+  
+  // Ali robot izvaja (pekalni) task
+  nTaskWorking = 0
+  // Čas peke (Čas1 = čas pečenja na prvi strani)
+  nCas_peke1=95
+  nCas_peke2=nCas_peke1*0.8
+
+  do
+    jTrenutna=herej()
+  until false
+end]]></Code>
+  </Program>
+</Programs>

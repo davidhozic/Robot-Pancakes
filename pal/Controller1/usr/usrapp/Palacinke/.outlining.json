@@ -1,0 +1,201 @@
+﻿{
+  "programs": [
+    {
+      "mode": 3,
+      "name": "safety",
+      "nodes": [
+        {
+          "start": 266,
+          "end": 1502,
+          "isCollapsed": false
+        },
+        {
+          "start": 439,
+          "end": 1488,
+          "isCollapsed": false
+        },
+        {
+          "start": 479,
+          "end": 497,
+          "isCollapsed": false
+        },
+        {
+          "start": 546,
+          "end": 951,
+          "isCollapsed": false
+        },
+        {
+          "start": 664,
+          "end": 939,
+          "isCollapsed": false
+        },
+        {
+          "start": 880,
+          "end": 925,
+          "isCollapsed": false
+        },
+        {
+          "start": 996,
+          "end": 1474,
+          "isCollapsed": false
+        },
+        {
+          "start": 1268,
+          "end": 1462,
+          "isCollapsed": false
+        },
+        {
+          "start": 1392,
+          "end": 1448,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "avtomatskiCikel",
+      "nodes": [
+        {
+          "start": 48,
+          "end": 258,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "stop",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "cakajProgress",
+      "nodes": [
+        {
+          "start": 412,
+          "end": 563,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "start",
+      "nodes": [
+        {
+          "start": 317,
+          "end": 355,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "reset",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "vHome",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "Glavni",
+      "nodes": [
+        {
+          "start": 78,
+          "end": 597,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "taski",
+      "nodes": [
+        {
+          "start": 268,
+          "end": 1472,
+          "isCollapsed": false
+        },
+        {
+          "start": 577,
+          "end": 634,
+          "isCollapsed": false
+        },
+        {
+          "start": 644,
+          "end": 1411,
+          "isCollapsed": false
+        },
+        {
+          "start": 663,
+          "end": 759,
+          "isCollapsed": false
+        },
+        {
+          "start": 767,
+          "end": 840,
+          "isCollapsed": false
+        },
+        {
+          "start": 848,
+          "end": 944,
+          "isCollapsed": false
+        },
+        {
+          "start": 952,
+          "end": 1032,
+          "isCollapsed": false
+        },
+        {
+          "start": 1040,
+          "end": 1148,
+          "isCollapsed": false
+        },
+        {
+          "start": 1156,
+          "end": 1267,
+          "isCollapsed": false
+        },
+        {
+          "start": 1275,
+          "end": 1369,
+          "isCollapsed": false
+        },
+        {
+          "start": 1377,
+          "end": 1396,
+          "isCollapsed": false
+        },
+        {
+          "start": 1415,
+          "end": 1464,
+          "isCollapsed": false
+        }
+      ]
+    },
+    {
+      "mode": 3,
+      "name": "obrat",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "naKroznik",
+      "nodes": []
+    },
+    {
+      "mode": 3,
+      "name": "DodajMaso",
+      "nodes": [
+        {
+          "start": 1125,
+          "end": 1255,
+          "isCollapsed": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,219 @@
+﻿{"entry":{"date":"2023-02-16T09:09:14","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-16T12:53:06","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-16T22:32:05","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-16T22:50:06","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-16T22:50:13","ts":"7.237277000","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File reset.pgx-line 4) 'ls_task' : data expected"},"hash":"fafeffc0b02e5b2849"}
+{"entry":{"date":"2023-02-16T22:50:13","ts":"7.237604599","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File reset.pgx-line 11) endFor does not match for structure"},"hash":"5c541b2086a60fb6e5"}
+{"entry":{"date":"2023-02-16T22:52:17","ts":"132.046025499","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File reset.pgx-line 4) 'i' : data expected"},"hash":"bd80037bfc9e1c813f"}
+{"entry":{"date":"2023-02-16T22:52:17","ts":"132.049798799","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File reset.pgx-line 11) 'i' : invalid name"},"hash":"af186fd0d9c89cecd6"}
+{"entry":{"date":"2023-02-16T22:52:17","ts":"132.050346299","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File reset.pgx-line 12) endFor does not match for structure"},"hash":"abd4ce2cbed4ccf5a7"}
+{"entry":{"date":"2023-02-16T22:55:16","ts":"311.008947299","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"8996c76ebe28d1857b"}
+{"entry":{"date":"2023-02-16T22:57:10","ts":"424.200953399","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"10047e78ddce735467"}
+{"entry":{"date":"2023-02-16T22:57:10","ts":"424.679972099","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"f47079747d22fe09d1"}
+{"entry":{"date":"2023-02-16T22:58:59","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T07:57:07","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T09:25:36","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T09:34:12","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T13:49:10","ts":"15298.157156100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"7047996e80d9ee7117"}
+{"entry":{"val":"Userpage JSON: Failed to parse data '%s'.","data":[{"val":"nPankCount[0]"}],"date":"2023-02-17T13:49:10","ts":"15298.168481400","type":"key","lvl":"ERROR","id":"0x7907"},"hash":"f28fdf556dd6704c73"}
+{"entry":{"val":"Userpage JSON: Caught VAL3 runtime error while evaluating '%s'.","data":[{"val":"{\"id\":\"id_stevec\",\"attribute\":\"value\",\"data\":\"nPankCount[0]\",\"size\":1,\"direction\":\"r\",\"refresh\":1}"}],"date":"2023-02-17T13:49:10","ts":"15298.168877800","type":"key","lvl":"ERROR","id":"0x7918"},"hash":"224a218a9a34d77334"}
+{"entry":{"date":"2023-02-17T13:49:12","ts":"15300.150178500","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"fc9bf4594ee74b15ae"}
+{"entry":{"date":"2023-02-17T13:49:12","ts":"15300.150204200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"1feb25443b1add422b"}
+{"entry":{"date":"2023-02-17T13:49:41","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T15:29:27","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T21:12:49","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T22:23:06","ts":"4218.033313899","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"0ff56ecebcbe11dfb9"}
+{"entry":{"date":"2023-02-17T22:23:08","ts":"4220.157130700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"cada9d27076504c787"}
+{"entry":{"date":"2023-02-17T22:23:08","ts":"4220.157165000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"e5d7fda5710a172e2d"}
+{"entry":{"date":"2023-02-17T22:23:13","ts":"4224.613255100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"2dac40d062b03c77c8"}
+{"entry":{"date":"2023-02-17T22:23:13","ts":"4224.613350700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"7a0a9befb813c70497"}
+{"entry":{"date":"2023-02-17T22:23:13","ts":"4225.318447900","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"0456854ebd88d1a097"}
+{"entry":{"date":"2023-02-17T22:23:13","ts":"4225.318964400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"b37a262ab26809f9a9"}
+{"entry":{"date":"2023-02-17T22:23:17","ts":"4228.567150800","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"473c5700e52fd95d99"}
+{"entry":{"date":"2023-02-17T22:23:17","ts":"4228.567234300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"03e8fac88fab3e66e8"}
+{"entry":{"date":"2023-02-17T22:23:17","ts":"4229.046270300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"d1bd1f5032628271f2"}
+{"entry":{"date":"2023-02-17T22:23:17","ts":"4229.046656500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"0509e4e476ae61c823"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4229.520279100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"d8b5ef1bc4c7478d0c"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4229.520785000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"44b00da33aabeb62f7"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4229.950797700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"9f3251e8c85ec9bb25"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4229.950898100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"61c61d2fb58460f15b"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4230.166848300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"4de5ecf1091f5c9712"}
+{"entry":{"date":"2023-02-17T22:23:18","ts":"4230.166926300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"44b9083ff360f41a2b"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.400959400","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"cec28410cacfc7c8db"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.401009599","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"60645175bb727a6c4c"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.660631400","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"7ae5edd8c722cbc3c9"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.660703600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"3f619e4c304767c484"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.868232100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"442b556c5be6f6beb9"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4230.868663200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"c83e02dd18495a6f73"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4231.323155899","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"b384f286ac1da7361c"}
+{"entry":{"date":"2023-02-17T22:23:19","ts":"4231.323183800","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"37d28b7df467748214"}
+{"entry":{"date":"2023-02-17T22:23:25","ts":"4236.395623600","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"2ef9c955b3137e0907"}
+{"entry":{"date":"2023-02-17T22:23:25","ts":"4236.396036000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"96f2d719b109d938d2"}
+{"entry":{"date":"2023-02-17T22:23:26","ts":"4237.535455300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"22c361f1e990251b30"}
+{"entry":{"date":"2023-02-17T22:23:26","ts":"4237.535535500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"94112dd905a0f405b5"}
+{"entry":{"date":"2023-02-17T22:23:27","ts":"4238.499010300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"15f2ecf4a013a830e4"}
+{"entry":{"date":"2023-02-17T22:23:27","ts":"4238.499238600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"1406a9868c0386a2b2"}
+{"entry":{"date":"2023-02-17T22:23:28","ts":"4239.419099100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"7abe01d3e327c1ce2d"}
+{"entry":{"date":"2023-02-17T22:23:28","ts":"4239.419144300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"7b2285bf02a530a805"}
+{"entry":{"date":"2023-02-17T22:23:28","ts":"4240.333941900","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"ee41201e8eea425089"}
+{"entry":{"date":"2023-02-17T22:23:28","ts":"4240.334051300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"79d655ed1000c2954b"}
+{"entry":{"date":"2023-02-17T22:23:29","ts":"4241.016603600","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"6bbcaa56c45ae9028f"}
+{"entry":{"date":"2023-02-17T22:23:29","ts":"4241.016681900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"770e53e1fdabdcb07c"}
+{"entry":{"date":"2023-02-17T22:23:30","ts":"4241.684479200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"4a4eef333300993550"}
+{"entry":{"date":"2023-02-17T22:23:30","ts":"4241.684500900","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"808e92ca2737ee3b84"}
+{"entry":{"date":"2023-02-17T22:23:40","ts":"4252.240271900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"3ff76a6c3f25ef14ef"}
+{"entry":{"date":"2023-02-17T22:23:41","ts":"4252.591105100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"57f1bb48cd54ecf225"}
+{"entry":{"date":"2023-02-17T22:23:43","ts":"4254.674854200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Joint position out of software limits.. Palacinke~. "},"hash":"8bd9214bb5f5ef6b89"}
+{"entry":{"date":"2023-02-17T22:23:43","ts":"4254.674900100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 520 Joint position out of software limits.. Palacinke~. "},"hash":"7728e828309729f293"}
+{"entry":{"date":"2023-02-17T22:31:19","ts":"4710.868745100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of joint limits.. home. "},"hash":"3838f678bbc79413d3"}
+{"entry":{"date":"2023-02-17T22:31:19","ts":"4710.868759500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 531 Cartesian position out of joint limits.. home. "},"hash":"40d9b6e59c647e9caf"}
+{"entry":{"date":"2023-02-17T22:32:00","ts":"4752.136690700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of joint limits.. palacinka. "},"hash":"ee51ac78cfc7704b0b"}
+{"entry":{"date":"2023-02-17T22:32:00","ts":"4752.136706700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 531 Cartesian position out of joint limits.. palacinka. "},"hash":"c820df4bb09efcf63c"}
+{"entry":{"date":"2023-02-17T22:33:32","ts":"4844.188589900","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"d06da56cfdda57c9d8"}
+{"entry":{"date":"2023-02-17T22:33:32","ts":"4844.188605700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"e6b4eb22eac343fbdb"}
+{"entry":{"date":"2023-02-17T22:34:19","ts":"4890.573678300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"b4c494c25990a83f1b"}
+{"entry":{"date":"2023-02-17T22:34:19","ts":"4891.031481700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"b846c83f6db7a45311"}
+{"entry":{"date":"2023-02-17T22:34:57","ts":"4928.537737500","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Another task is currently pushing movements on the motion stack.. palacinka. "},"hash":"8dbd79bb01ba9b8fb9"}
+{"entry":{"date":"2023-02-17T22:34:57","ts":"4928.537751299","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 35 Another task is currently pushing movements on the motion stack.. palacinka. "},"hash":"da4768cdf0e86b1487"}
+{"entry":{"date":"2023-02-17T22:34:57","ts":"4929.228256700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"130349cd2d7a31109f"}
+{"entry":{"date":"2023-02-17T22:34:57","ts":"4929.228270799","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"7f36c2191228c8d4a4"}
+{"entry":{"date":"2023-02-17T22:35:04","ts":"4935.987621200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"8aa7bd8db51d94f141"}
+{"entry":{"date":"2023-02-17T22:35:04","ts":"4935.987634500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"38f78c428273c7307a"}
+{"entry":{"date":"2023-02-17T22:35:10","ts":"4941.562784700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"b26aabf69e6f9f9e74"}
+{"entry":{"date":"2023-02-17T22:35:10","ts":"4941.562797500","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"88e8a8a8ceb7da3173"}
+{"entry":{"date":"2023-02-17T22:35:11","ts":"4943.264993200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"9e8270f10a6ea59ae8"}
+{"entry":{"date":"2023-02-17T22:35:11","ts":"4943.265006600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"83055a0e4c28200baf"}
+{"entry":{"date":"2023-02-17T22:35:48","ts":"4980.001501100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"efdfd3b6246493076b"}
+{"entry":{"date":"2023-02-17T22:35:49","ts":"4980.435269600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"5f75f7d80340e83db7"}
+{"entry":{"date":"2023-02-17T22:36:01","ts":"4992.496293400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"1e6605e2bccf0cdeb1"}
+{"entry":{"date":"2023-02-17T22:36:01","ts":"4992.873685200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"e5f89a18082f9dfeec"}
+{"entry":{"date":"2023-02-17T22:36:08","ts":"4999.385837900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"38d785991a49eb8ac9"}
+{"entry":{"date":"2023-02-17T22:36:08","ts":"4999.792410800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"489e916121d4e64894"}
+{"entry":{"date":"2023-02-17T22:36:27","ts":"5018.820385800","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"c73dab6bdf349e3882"}
+{"entry":{"date":"2023-02-17T22:36:27","ts":"5018.820398600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"3b53921f379e7b9e77"}
+{"entry":{"date":"2023-02-17T22:36:56","ts":"5047.533038699","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"9777b17ea452cefa98"}
+{"entry":{"date":"2023-02-17T22:36:56","ts":"5047.533052400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"e784fe29b99e334eed"}
+{"entry":{"date":"2023-02-17T22:36:57","ts":"5048.520546300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"56212bee7a029d59b3"}
+{"entry":{"date":"2023-02-17T22:36:57","ts":"5048.520560600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"df0d0780ad9a296d42"}
+{"entry":{"date":"2023-02-17T22:36:58","ts":"5049.549579700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"1bbd45e3465878e0f3"}
+{"entry":{"date":"2023-02-17T22:36:58","ts":"5049.549598700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"a89f5a3a56ffecfce5"}
+{"entry":{"date":"2023-02-17T22:36:58","ts":"5050.316919900","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"77783649102a2f2cb9"}
+{"entry":{"date":"2023-02-17T22:36:58","ts":"5050.316938000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"749f5e5594365aefcf"}
+{"entry":{"date":"2023-02-17T22:37:11","ts":"5062.455363700","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"d6e2e38313ad9403e7"}
+{"entry":{"date":"2023-02-17T22:37:11","ts":"5062.455377100","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"e2799c3b8cd9a4b6cd"}
+{"entry":{"date":"2023-02-17T22:37:12","ts":"5064.157098399","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"bd0db6da9a7f5d10f4"}
+{"entry":{"date":"2023-02-17T22:37:12","ts":"5064.157118700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"d08baeb134f1e11c90"}
+{"entry":{"date":"2023-02-17T22:37:17","ts":"5069.049332100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"b48a64d82342f63d85"}
+{"entry":{"date":"2023-02-17T22:37:17","ts":"5069.049345000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"b54a5ffe310d3ebfc6"}
+{"entry":{"date":"2023-02-17T22:37:18","ts":"5070.120557400","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cannot cross singularity in this case.. home. "},"hash":"e9ad22aeafef5b8e75"}
+{"entry":{"date":"2023-02-17T22:37:18","ts":"5070.120569400","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 540 Cannot cross singularity in this case.. home. "},"hash":"4210c8c454b756e703"}
+{"entry":{"date":"2023-02-17T22:37:19","ts":"5071.364776800","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"7a5d54202ae6dc32ea"}
+{"entry":{"date":"2023-02-17T22:37:19","ts":"5071.364792300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"b7bbbdab2df7229726"}
+{"entry":{"date":"2023-02-17T22:37:24","ts":"5075.900756200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"4e2c66bdd067492dc3"}
+{"entry":{"date":"2023-02-17T22:37:24","ts":"5075.900769200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"d0a79972c6f14cf519"}
+{"entry":{"date":"2023-02-17T22:37:25","ts":"5076.819712500","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"3a93155557d9fdc488"}
+{"entry":{"date":"2023-02-17T22:37:25","ts":"5076.819726300","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"0c7d63e4e7d0811605"}
+{"entry":{"date":"2023-02-17T22:38:45","ts":"5157.211713900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"ce6d471cb8ff2a354f"}
+{"entry":{"date":"2023-02-17T22:38:46","ts":"5157.445606499","type":"msg","lvl":"ERROR","id":"0x5405","val":"(File vHome.pgx-line 11) 'world' : invalid type"},"hash":"5974966f06126fffdd"}
+{"entry":{"date":"2023-02-17T22:39:07","ts":"5178.813830200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"d556bdd51010dda7db"}
+{"entry":{"date":"2023-02-17T22:40:10","ts":"5241.437286000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"77fb326ef8c6f9886f"}
+{"entry":{"date":"2023-02-17T22:40:10","ts":"5241.850578400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"56a9ce301057a5fe84"}
+{"entry":{"date":"2023-02-17T22:42:06","ts":"5358.226233800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"bda27a6bf0636555f3"}
+{"entry":{"date":"2023-02-17T22:42:07","ts":"5358.634424300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"af87a874ea7523e6a5"}
+{"entry":{"date":"2023-02-17T22:43:57","ts":"5469.350164900","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"5501a37ae902c44c22"}
+{"entry":{"date":"2023-02-17T22:43:57","ts":"5469.350178499","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"ef53b9e8bc311fc74c"}
+{"entry":{"date":"2023-02-17T22:44:55","ts":"5527.026685200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"c03256f6d161e0528a"}
+{"entry":{"date":"2023-02-17T22:44:56","ts":"5527.462161400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"71a132b4debad94795"}
+{"entry":{"date":"2023-02-17T22:48:17","ts":"5728.654880900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"3c4f195c28df3f5a38"}
+{"entry":{"date":"2023-02-17T22:48:17","ts":"5728.949207500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"baa1f2f1e39df83b21"}
+{"entry":{"date":"2023-02-17T22:50:12","ts":"5844.027406100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"ae73dcd913edcaaa49"}
+{"entry":{"date":"2023-02-17T22:50:13","ts":"5844.452501200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"9e64fbb215e0f3c7fb"}
+{"entry":{"date":"2023-02-17T22:52:29","ts":"5980.812878199","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"4c0c0dcfccb788acd7"}
+{"entry":{"date":"2023-02-17T22:52:29","ts":"5981.121163600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"d22e3510d406cd0ec1"}
+{"entry":{"date":"2023-02-17T22:54:41","ts":"6113.176615800","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"3eb1eefef9e0ec8580"}
+{"entry":{"date":"2023-02-17T22:54:41","ts":"6113.176629200","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"ad0e97ac28221c8808"}
+{"entry":{"date":"2023-02-17T22:54:55","ts":"6126.542675200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"56f60b616c554c61d4"}
+{"entry":{"date":"2023-02-17T22:54:55","ts":"6126.892254000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"32920ce0a0a8958751"}
+{"entry":{"date":"2023-02-17T22:56:28","ts":"6219.391752000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"70e244ba55f90ab73e"}
+{"entry":{"date":"2023-02-17T22:56:28","ts":"6219.741391800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"3be81d8b1b8ddd2ba2"}
+{"entry":{"date":"2023-02-17T23:04:03","ts":"6674.705278100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of workspace.. home. "},"hash":"89b58ba982bfaacfcb"}
+{"entry":{"date":"2023-02-17T23:04:03","ts":"6674.705292099","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Cartesian position out of workspace.. home. "},"hash":"abe4f57984aa52e452"}
+{"entry":{"date":"2023-02-17T23:04:08","ts":"6680.315046000","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of workspace.. home. "},"hash":"b3392bb3b7a84cb043"}
+{"entry":{"date":"2023-02-17T23:04:08","ts":"6680.315058800","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Cartesian position out of workspace.. home. "},"hash":"7a34495fde33c9d257"}
+{"entry":{"date":"2023-02-17T23:04:12","ts":"6684.060558500","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of workspace.. home. "},"hash":"5409046b24987a0886"}
+{"entry":{"date":"2023-02-17T23:04:12","ts":"6684.060571600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Cartesian position out of workspace.. home. "},"hash":"a6fb22a75ce9634011"}
+{"entry":{"date":"2023-02-17T23:04:59","ts":"6731.032625200","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of workspace.. home. "},"hash":"54e9ff1a3f208d5bd2"}
+{"entry":{"date":"2023-02-17T23:04:59","ts":"6731.032640000","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Cartesian position out of workspace.. home. "},"hash":"40eb9fefaa858817c8"}
+{"entry":{"date":"2023-02-17T23:06:28","ts":"6820.097199300","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"5835e206fa011e0f0b"}
+{"entry":{"date":"2023-02-17T23:06:28","ts":"6820.097213600","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn1_Copy2.click_taski. "},"hash":"f6e8031f26da78ce05"}
+{"entry":{"date":"2023-02-17T23:06:49","ts":"6840.598977200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"90da0ec5e9e195d633"}
+{"entry":{"date":"2023-02-17T23:06:49","ts":"6840.966702100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"7a218c7cd297690b7e"}
+{"entry":{"date":"2023-02-17T23:06:55","ts":"6847.349532100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"460976727d0077bc1c"}
+{"entry":{"date":"2023-02-17T23:06:56","ts":"6847.734805100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"2f98678e69eb14ef9d"}
+{"entry":{"date":"2023-02-17T23:07:07","ts":"6858.409032199","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"cc420d9549613b0b07"}
+{"entry":{"date":"2023-02-17T23:07:30","ts":"6882.204132000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"f8ef72b130f4fed341"}
+{"entry":{"date":"2023-02-17T23:07:39","ts":"6891.105775100","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Cartesian position out of workspace.. home. "},"hash":"4e7fdf12606b111ca5"}
+{"entry":{"date":"2023-02-17T23:07:39","ts":"6891.105792800","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 532 Cartesian position out of workspace.. home. "},"hash":"2c888ba49856925ced"}
+{"entry":{"date":"2023-02-17T23:08:17","ts":"6928.451471300","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"9d99630bed4a344ec6"}
+{"entry":{"date":"2023-02-17T23:08:17","ts":"6928.815916799","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"a997ad0c1d4fa7f745"}
+{"entry":{"date":"2023-02-17T23:11:58","ts":"7150.029995100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"f6a5f2b56e0c9159d5"}
+{"entry":{"date":"2023-02-17T23:11:58","ts":"7150.240047200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"17b63e1631f518a6cd"}
+{"entry":{"date":"2023-02-17T23:12:43","ts":"7195.118501999","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"2db845292d8766c40b"}
+{"entry":{"date":"2023-02-17T23:12:44","ts":"7195.497850000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"c5fe5896164a150443"}
+{"entry":{"date":"2023-02-17T23:16:22","ts":"7414.162599600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"092a78a44a5136a738"}
+{"entry":{"date":"2023-02-17T23:16:23","ts":"7414.544722899","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"e9eb1007a1b1d684b5"}
+{"entry":{"date":"2023-02-17T23:18:43","ts":"7554.499494600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"8c7dc86dd4a32abedb"}
+{"entry":{"date":"2023-02-17T23:18:43","ts":"7554.893824200","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"195321bc5abc97434b"}
+{"entry":{"date":"2023-02-17T23:19:30","ts":"7601.909097000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"58c4fbb2312f0cb371"}
+{"entry":{"date":"2023-02-17T23:19:30","ts":"7602.272622300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"6b4879df2b653f3c51"}
+{"entry":{"date":"2023-02-17T23:19:54","ts":"7625.503612200","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"eb1334b0a34ad3f95e"}
+{"entry":{"date":"2023-02-17T23:19:54","ts":"7625.885387900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"12dab6f797aad1c1be"}
+{"entry":{"date":"2023-02-17T23:21:58","ts":"7749.441295299","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"a5c33b20883f9bbf06"}
+{"entry":{"date":"2023-02-17T23:22:04","ts":"7756.110902000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"7be4d1b76af7f03ef6"}
+{"entry":{"date":"2023-02-17T23:23:56","ts":"7867.738161500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"74d8c9d7076b9c246c"}
+{"entry":{"date":"2023-02-17T23:24:07","ts":"7879.050925100","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"f6380523784eef0234"}
+{"entry":{"date":"2023-02-17T23:26:11","ts":"8002.800495800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"a99e3a2813e3de2b5a"}
+{"entry":{"date":"2023-02-17T23:26:47","ts":"8038.834564000","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"3df0d8b22cddd588c0"}
+{"entry":{"date":"2023-02-17T23:28:27","ts":"8138.920814600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"7a420bb00500cdd18e"}
+{"entry":{"date":"2023-02-17T23:28:41","ts":"8152.591475300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"e8e80c4a5d65fcd31e"}
+{"entry":{"date":"2023-02-17T23:31:24","ts":"8316.105472600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"66fe70d214cd9bfb4b"}
+{"entry":{"date":"2023-02-17T23:31:26","ts":"8318.066023400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"1287f5db1a770c0808"}
+{"entry":{"date":"2023-02-17T23:40:17","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-17T23:40:21","ts":"4.870579999","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"de66b4d9ee716eaaae"}
+{"entry":{"date":"2023-02-17T23:52:24","ts":"727.604435999","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"7ae002ba3a6b9500d1"}
+{"entry":{"date":"2023-02-18T00:01:49","ts":"1292.681454699","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"7cad16c08d17ee6955"}
+{"entry":{"date":"2023-02-18T00:02:10","ts":"1313.186280699","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"a014b7045a54c9c2b4"}
+{"entry":{"date":"2023-02-18T00:02:10","ts":"1313.535369999","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"24b2f0d6de5629375d"}
+{"entry":{"date":"2023-02-18T00:03:03","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-18T00:03:19","ts":"16.537149600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"4a8cd9e932a091849b"}
+{"entry":{"date":"2023-02-18T00:05:35","ts":"152.437344000","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn2.click_taski. "},"hash":"8eaf2cbc61dfb91d98"}
+{"entry":{"date":"2023-02-18T00:05:35","ts":"152.437364699","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn2.click_taski. "},"hash":"03e1264edde9cbb42e"}
+{"entry":{"date":"2023-02-18T00:07:08","ts":"245.276860799","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"eeefc37e31ef4adabf"}
+{"entry":{"date":"2023-02-18T00:07:08","ts":"245.650994800","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"0d7852febd224bf9b9"}
+{"entry":{"date":"2023-02-18T00:08:33","ts":"329.907641400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"f001c4ade53af7131b"}
+{"entry":{"date":"2023-02-18T00:08:37","ts":"334.412372099","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"947cda53eef7f62590"}
+{"entry":{"date":"2023-02-18T00:08:51","ts":"348.244442600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"633eaa298bbbb0c067"}
+{"entry":{"date":"2023-02-18T00:08:51","ts":"348.590707499","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"308bf8cda54b1b703f"}
+{"entry":{"date":"2023-02-18T00:10:13","ts":"430.354161499","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"08dc1cf9d3887f3da5"}
+{"entry":{"date":"2023-02-18T00:10:14","ts":"431.139066300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"40329d2821931473a6"}
+{"entry":{"date":"2023-02-18T00:12:54","ts":"590.741669500","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"195f0c62a3203b3ad6"}
+{"entry":{"date":"2023-02-18T00:12:54","ts":"591.092742600","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"8a6d4abb0829e0f0b7"}
+{"entry":{"date":"2023-02-18T00:13:09","ts":"605.871962100","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"07c310dec2f5289a2b"}
+{"entry":{"date":"2023-02-18T00:13:17","ts":"613.811712099","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"fe2055ab16535a2e47"}
+{"entry":{"date":"2023-02-18T00:14:00","ts":"657.556300900","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"7381d1a9621596eb63"}
+{"entry":{"date":"2023-02-18T00:14:05","ts":"662.214000700","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"9dfc0b7019792169ea"}
+{"entry":{"date":"2023-02-18T00:15:01","ts":"717.713075400","type":"msg","lvl":"ERROR","id":"0x5404","val":"VAL3 runtime error. Task name already used.. pala_cinke.btn2_Copy2.click_taski. "},"hash":"359e4a7a8c2eb6b7df"}
+{"entry":{"date":"2023-02-18T00:15:01","ts":"717.713090700","type":"msg","lvl":"ERROR","id":"0x5404","val":"ERR 31 Task name already used.. pala_cinke.btn2_Copy2.click_taski. "},"hash":"2f693aa32896fbba0e"}
+{"entry":{"date":"2023-02-18T00:16:12","ts":"788.901709800","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"16c3c0d00fd39796f8"}
+{"entry":{"date":"2023-02-18T00:16:21","ts":"798.496660300","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"ede1a015b0bd2f81d4"}
+{"entry":{"date":"2023-02-18T00:16:44","ts":"821.468113000","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"3ad4d46754cdf2451b"}
+{"entry":{"date":"2023-02-18T00:16:45","ts":"821.791795400","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"9aacd5d11a003923cd"}
+{"entry":{"date":"2023-02-18T00:16:53","ts":"830.098647600","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"99baf836bfef3d9f8c"}
+{"entry":{"date":"2023-02-18T00:16:53","ts":"830.438922500","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"35601c40deb3d149b0"}
+{"entry":{"date":"2023-02-18T00:17:21","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-18T00:17:33","ts":"12.868015299","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"2f2eafa739d7d72a0e"}
+{"entry":{"date":"2023-02-18T08:36:43","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-18T12:12:50","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-18T16:28:25","type":"run","version":"3.0.0"}}
+{"entry":{"date":"2023-02-18T16:28:51","ts":"26.902295900","type":"msg","lvl":"INFO","id":"0x5402","val":"Application 'Palacinke' started."},"hash":"3260c88e12c23858fe"}
+{"entry":{"date":"2023-02-18T16:36:45","ts":"500.746648400","type":"msg","lvl":"INFO","id":"0x5403","val":"Application 'Palacinke' stopped."},"hash":"ab11125ec16586e753"}

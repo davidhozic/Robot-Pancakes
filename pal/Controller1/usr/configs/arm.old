@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<arm>
+  <String name="date" value="04 Jun 2021  08:34" />
+  <String name="orderNumber" value="F_20_0017839_A_001" />
+  <String name="arm" value="tx2_60-S2" />
+  <String name="tuning" value="" />
+  <String name="mount" value="floor" />
+  <Bool name="buckFull" value="false" />
+  <Valves>
+    <Valve index="0" >
+      <String name="type" value="52" />
+      <Float name="openDuration" value="0.1" />
+      <Float name="closeDuration" value="0.1" />
+    </Valve>
+    <Valve index="1" >
+      <String name="type" value="52" />
+      <Float name="openDuration" value="0.1" />
+      <Float name="closeDuration" value="0.1" />
+    </Valve>
+  </Valves>
+  <String name="oil" value="STD" />
+  <FloatArray name="minArmJointPos" >
+    <Float index="0" value="-9999999" />
+    <Float index="1" value="-9999999" />
+    <Float index="2" value="-9999999" />
+    <Float index="3" value="-9999999" />
+    <Float index="4" value="-9999999" />
+    <Float index="5" value="-560" />
+  </FloatArray>
+  <FloatArray name="maxArmJointPos" >
+    <Float index="0" value="9999999" />
+    <Float index="1" value="9999999" />
+    <Float index="2" value="9999999" />
+    <Float index="3" value="9999999" />
+    <Float index="4" value="9999999" />
+    <Float index="5" value="560" />
+  </FloatArray>
+  <ArmJntRange>
+  </ArmJntRange>
+  <ArmJntRef>
+    <JntReferences id="factoryMarks" category="" name="factoryMarks" level="system" >
+      <FloatArray name="position" >
+        <Float index="0" value="-0.002192" />
+        <Float index="1" value="-0.176255" />
+        <Float index="2" value="0.002695" />
+        <Float index="3" value="-0.001749" />
+        <Float index="4" value="-0.602674" />
+        <Float index="5" value="0.000333" />
+      </FloatArray>
+    </JntReferences>
+  </ArmJntRef>
+  <CalibrationArray>
+    <Calibration index="0"  position="5793073" measure="-278577147" df="0.000005" />
+    <Calibration index="1"  position="-9529664" measure="-427292702" df="-0.000002" />
+    <Calibration index="2"  position="2271215" measure="-342448013" df="0.000006" />
+    <Calibration index="3"  position="6272791" measure="-397611272" df="0.000007" />
+    <Calibration index="4"  position="-3194898" measure="-392587464" df="-0.000004" />
+    <Calibration index="5"  position="-2603931" measure="-354166067" df="-0.000004" />
+  </CalibrationArray>
+  <PhasingArray>
+    <Phasing index="0"  zeroElec="1863211198" computedFrom="1863211198" />
+    <Phasing index="1"  zeroElec="1728527551" computedFrom="1728527551" />
+    <Phasing index="2"  zeroElec="1802229000" computedFrom="1802229000" />
+    <Phasing index="3"  zeroElec="486033" computedFrom="486033" />
+    <Phasing index="4"  zeroElec="352968" computedFrom="352968" />
+    <Phasing index="5"  zeroElec="421472" computedFrom="421472" />
+  </PhasingArray>
+  <DhArray name="dhOffset" >
+    <DH index="0" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="1" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="2" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="3" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="4" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+    <DH index="5" theta="0" d="0" a="0" b="0" alpha="0" beta="0" />
+  </DhArray>
+  <Float name="flangeLengthOffset" value="0" />
+  <StringArray name="motorType" >
+    <String index="0" value="" />
+    <String index="1" value="" />
+    <String index="2" value="" />
+    <String index="3" value="" />
+    <String index="4" value="" />
+    <String index="5" value="" />
+  </StringArray>
+  <Bool name="hardStopAxis1" value="false" />
+  <Bool name="ul" value="false" />
+  <Brakes>
+    <String name="date" value="2020-03-06T10:20:44Z" />
+    <FloatArray name="BrakeIndicators" >
+      <Float index="0" value="100" />
+      <Float index="1" value="100" />
+      <Float index="2" value="100" />
+      <Float index="3" value="100" />
+      <Float index="4" value="100" />
+      <Float index="5" value="100" />
+    </FloatArray>
+  </Brakes>
+  <FloatArray name="jntFlexOffset" >
+    <Float index="0" value="0" />
+    <Float index="1" value="0" />
+    <Float index="2" value="0" />
+    <Float index="3" value="0" />
+    <Float index="4" value="0" />
+    <Float index="5" value="0" />
+  </FloatArray>
+</arm>

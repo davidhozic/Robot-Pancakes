@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="obrat">
+    <Code><![CDATA[begin
+
+  // TUKAJ vstavi ukaze za premikanje robota na krožnik
+  // lahko si pomagaš s starimi točkami, ki so tu spodaj zakomentirane
+
+  // namesto mNomSpeed uporabi že pripravljene hitrosti mPočasi, mSrednje in mHitro, glede na to kakšno gibanje želiš
+  // ukaz waitEndMove uporabimo, ko želimo, da se robot v vsaki točki ustavi. Ko se pomikamo po prostoru, ne želimo ustavljanja preko vseh točk, ampak želimo zvezno gibanje
+  // v definiciji vsake hitrosti je tudi možnost blend, ki pove koliko milimetrov od točke naj potuje robot, ko gre proti naslednji brez ustavljanja
+  // če želimo točne pomike, za primer pobiranja, uporabimo waitEndMove, da se robot pomakne točno v točko in tam počaka na naslednji ukaz
+
+  // če podatek ni shranjen kot array (ima le indeks [0]), ga lahko kličemo le z imenom, brez indeksa. Če imamo array z več vnosi/indeksi pa na ta način kličemo ničti [0] element.
+  // primer: mNomSpeed[0] == mNomSpeedW
+  nTaskWorking = nTaskWorking + 1
+  
+  movej(jNadPosodo,flange,mSrednje)
+  waitEndMove()
+
+  movel(pPoberiPal[0],tLopatka,mSrednje)
+  movel(pPoberiPal[1],tLopatka,mSrednje)
+  movel(pPoberiPal[2],tLopatka,mSrednje)
+  movel(pPoberiPal[3],tLopatka,mPocasi)
+  movel(pObratPal[0],tLopatka,mPocasi)
+  movel(pObratPal[1],tLopatka,mHitro)
+  waitEndMove()
+  call cakajProgress(3)
+
+  movel(pZajem[2],tSefla,mSrednje)
+  movel(pPosodaOdcedi,tSefla,mSrednje)
+  waitEndMove()
+  
+  nTaskWorking = nTaskWorking - 1
+end]]></Code>
+  </Program>
+</Programs>

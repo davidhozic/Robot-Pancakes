@@ -1,0 +1,314 @@
+<ProcessData xmlns="x-schema:ProcessDataSchema.xml"><Version major="1" minor="0">
+	</Version><Adapter systemTag="8ef2945c-e700-4496-b384-d31c21b7b115" displayName="NETX_51_RE_PNS_V3.5.35_-_V3.x[NETX 51 RE/PNS V3.5.35 - V3.x]&lt;staubli7252prirobnica&gt;" byteOrder="big" configMD5="C8331D667FC449F14DC6C78EB5C8D6F9" deviceAccessPath="" stationAddress="Addr staubli7252prirobnica"><Property id="6003" type="8" value="QwBJAEYAWABfAEQAUgBWAA=="/>
+		<Module systemTag="eec16f57-23b9-4382-958b-b78564b93277" displayName="4 Bytes Input" moduleType="4 Bytes Input" moduleAddress="Slot 1">
+			<Module systemTag="ed8716a1-fb71-432a-a823-75d1302bc26f" displayName="4 Bytes Input" moduleType="4 Bytes Input" moduleAddress="Subslot 1">
+				<Property id="6102" type="19" value="AAAAAA=="/><Signal systemTag="c2885130-d81b-46a4-8304-c3a84d95f4f9" displayName="ROUT_Bit_0.0" signalType="output" signalAccessPath="0.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AAAAAA=="/>
+				</Signal>
+				<Signal systemTag="3bb8c51f-a5a8-4d2f-833a-3a1f4fa97d64" displayName="ROUT_Bit_0.1" signalType="output" signalAccessPath="0.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AQAAAA=="/>
+				</Signal>
+				<Signal systemTag="ac0a6581-0963-42ed-9d8e-f97e9f92280c" displayName="ROUT_Bit_0.2" signalType="output" signalAccessPath="0.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AgAAAA=="/>
+				</Signal>
+				<Signal systemTag="9c14b0ff-1c3c-4fbe-bb6f-a75efd43f03f" displayName="ROUT_Bit_0.3" signalType="output" signalAccessPath="0.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AwAAAA=="/>
+				</Signal>
+				<Signal systemTag="df7dfe40-0a10-47fc-9941-56cb2291977e" displayName="ROUT_Bit_0.4" signalType="output" signalAccessPath="0.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BAAAAA=="/>
+				</Signal>
+				<Signal systemTag="f20c965a-e9ea-44af-bde5-fe2a454f4697" displayName="ROUT_Bit_0.5" signalType="output" signalAccessPath="0.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BQAAAA=="/>
+				</Signal>
+				<Signal systemTag="22e5aec6-0907-4bb3-89fd-c95666a868b2" displayName="ROUT_Bit_0.6" signalType="output" signalAccessPath="0.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BgAAAA=="/>
+				</Signal>
+				<Signal systemTag="b1e143eb-8bfe-40f2-bc8f-b395a57e1576" displayName="ROUT_Bit_0.7" signalType="output" signalAccessPath="0.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BwAAAA=="/>
+				</Signal>
+				<Signal systemTag="3441472e-3fca-4b9e-85b5-19162c8513d2" displayName="ROUT_Bit_1.0" signalType="output" signalAccessPath="1.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CAAAAA=="/>
+				</Signal>
+				<Signal systemTag="d4506910-8bc9-42c8-ae03-1f863bef24ad" displayName="ROUT_Bit_1.1" signalType="output" signalAccessPath="1.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CQAAAA=="/>
+				</Signal>
+				<Signal systemTag="8cf011d7-6720-4bd8-a797-f968dcdf5298" displayName="ROUT_Bit_1.2" signalType="output" signalAccessPath="1.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CgAAAA=="/>
+				</Signal>
+				<Signal systemTag="a9fd3ba0-2ee7-4e3e-ad46-390d58b99875" displayName="ROUT_Bit_1.3" signalType="output" signalAccessPath="1.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CwAAAA=="/>
+				</Signal>
+				<Signal systemTag="fc35ed0d-9338-415e-88a1-b242ef016807" displayName="ROUT_Bit_1.4" signalType="output" signalAccessPath="1.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DAAAAA=="/>
+				</Signal>
+				<Signal systemTag="e4fa2687-2d39-4ba9-8ac0-1c71d1060dc0" displayName="ROUT_Bit_1.5" signalType="output" signalAccessPath="1.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DQAAAA=="/>
+				</Signal>
+				<Signal systemTag="3db64ae3-0365-42fe-83ef-bd2e4508017b" displayName="ROUT_Bit_1.6" signalType="output" signalAccessPath="1.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DgAAAA=="/>
+				</Signal>
+				<Signal systemTag="1f7a3f0e-1c92-41e0-8cc6-df1b363f6b12" displayName="ROUT_Bit_1.7" signalType="output" signalAccessPath="1.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DwAAAA=="/>
+				</Signal>
+				<Signal systemTag="5e324e3f-c560-492d-b0bb-1ff3ec46c14d" displayName="ROUT_Bit_2.0" signalType="output" signalAccessPath="2.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EAAAAA=="/>
+				</Signal>
+				<Signal systemTag="cc403905-95a6-4ca3-bede-342ec9a51701" displayName="ROUT_Bit_2.1" signalType="output" signalAccessPath="2.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EQAAAA=="/>
+				</Signal>
+				<Signal systemTag="f9b16dcf-fb5c-45da-92d5-f074aed72dc6" displayName="ROUT_Bit_2.2" signalType="output" signalAccessPath="2.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EgAAAA=="/>
+				</Signal>
+				<Signal systemTag="9b8d1043-e004-4f00-b1b6-d7e52af59b24" displayName="ROUT_Bit_2.3" signalType="output" signalAccessPath="2.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EwAAAA=="/>
+				</Signal>
+				<Signal systemTag="cee4705d-3ae2-4a89-bc36-6077fe3af947" displayName="ROUT_Bit_2.4" signalType="output" signalAccessPath="2.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FAAAAA=="/>
+				</Signal>
+				<Signal systemTag="6f75c0ba-4c0e-4be0-b50e-11da4d1e3f69" displayName="ROUT_Bit_2.5" signalType="output" signalAccessPath="2.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FQAAAA=="/>
+				</Signal>
+				<Signal systemTag="1c9d48d0-9f6b-4960-bbaa-5322e18240af" displayName="ROUT_Bit_2.6" signalType="output" signalAccessPath="2.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FgAAAA=="/>
+				</Signal>
+				<Signal systemTag="e968f477-c397-4326-96c1-6234cdb30be6" displayName="ROUT_Bit_2.7" signalType="output" signalAccessPath="2.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FwAAAA=="/>
+				</Signal>
+				<Signal systemTag="a68bbff6-5f89-460a-855e-1b98d74e8d04" displayName="ROUT_Bit_3.0" signalType="output" signalAccessPath="3.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GAAAAA=="/>
+				</Signal>
+				<Signal systemTag="8280e321-6875-4e9b-90de-f69be3523475" displayName="ROUT_Bit_3.1" signalType="output" signalAccessPath="3.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GQAAAA=="/>
+				</Signal>
+				<Signal systemTag="da406797-f1ad-49b6-924a-c0ec620526a3" displayName="ROUT_Bit_3.2" signalType="output" signalAccessPath="3.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GgAAAA=="/>
+				</Signal>
+				<Signal systemTag="d402943c-a8af-4661-8b26-898ed6de9def" displayName="ROUT_Bit_3.3" signalType="output" signalAccessPath="3.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GwAAAA=="/>
+				</Signal>
+				<Signal systemTag="e4acaca5-bb3e-46b5-91d3-48c1600aff03" displayName="ROUT_Bit_3.4" signalType="output" signalAccessPath="3.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HAAAAA=="/>
+				</Signal>
+				<Signal systemTag="fa59e9f5-89aa-4fc8-b45f-2a2c38f7b9a3" displayName="ROUT_Bit_3.5" signalType="output" signalAccessPath="3.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HQAAAA=="/>
+				</Signal>
+				<Signal systemTag="15b1aae6-dbca-43fd-aa4d-e6cc1df06f50" displayName="ROUT_Bit_3.6" signalType="output" signalAccessPath="3.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HgAAAA=="/>
+				</Signal>
+				<Signal systemTag="9f04f4f2-026e-45d7-8676-9a39241b410c" displayName="ROUT_Bit_3.7" signalType="output" signalAccessPath="3.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HwAAAA=="/>
+				</Signal>
+			</Module>
+		</Module>
+		<Module systemTag="a2128348-abb4-4ccc-bb19-764993e9972f" displayName="32 Bytes Input" moduleType="32 Bytes Input" moduleAddress="Slot 2">
+			<Module systemTag="0dc817c6-ccbf-46bb-8b42-57ac2d5dda3a" displayName="32 Bytes Input" moduleType="32 Bytes Input" moduleAddress="Subslot 1">
+				<Property id="6102" type="19" value="IAAAAA=="/><Signal systemTag="70d43cb1-f3ba-4915-986b-0f34c864a200" displayName="ROUT_Byte_4" signalType="output" signalAccessPath="4" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AAAAAA=="/>
+				</Signal>
+				<Signal systemTag="aaf96a2c-f9d7-4960-8f24-ccbb7cf3e278" displayName="ROUT_Byte_5" signalType="output" signalAccessPath="5" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CAAAAA=="/>
+				</Signal>
+				<Signal systemTag="3c1c6f76-9632-4a34-b197-959e9305eaa9" displayName="ROUT_Byte_6" signalType="output" signalAccessPath="6" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EAAAAA=="/>
+				</Signal>
+				<Signal systemTag="9fd2984f-c815-40ba-ad57-806342be3cb7" displayName="ROUT_Byte_7" signalType="output" signalAccessPath="7" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GAAAAA=="/>
+				</Signal>
+				<Signal systemTag="9bf63760-42fe-4e19-a3a6-6f680e83a732" displayName="ROUT_Byte_8" signalType="output" signalAccessPath="8" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="IAAAAA=="/>
+				</Signal>
+				<Signal systemTag="6866091b-3bdd-473b-81de-5e10c997d7cb" displayName="ROUT_Byte_9" signalType="output" signalAccessPath="9" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="KAAAAA=="/>
+				</Signal>
+				<Signal systemTag="87966803-fe79-4098-a195-dbdec575f967" displayName="ROUT_Byte_10" signalType="output" signalAccessPath="10" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="MAAAAA=="/>
+				</Signal>
+				<Signal systemTag="f389dd86-b20c-47de-98ba-1371b9066344" displayName="ROUT_Byte_11" signalType="output" signalAccessPath="11" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="OAAAAA=="/>
+				</Signal>
+				<Signal systemTag="96593fdb-aa8f-44a2-a368-815a8abe12d2" displayName="ROUT_DWord_12" signalType="output" signalAccessPath="12" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="QAAAAA=="/>
+				</Signal>
+				<Signal systemTag="651e2027-c169-4ac3-ae7d-21d254b0c496" displayName="ROUT_DWord_16" signalType="output" signalAccessPath="16" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="YAAAAA=="/>
+				</Signal>
+				<Signal systemTag="e1d6a642-cded-4888-a155-3e0a689349dc" displayName="ROUT_DWord_20" signalType="output" signalAccessPath="20" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="gAAAAA=="/>
+				</Signal>
+				<Signal systemTag="4a952503-b308-4368-8671-908bfa4c4bbc" displayName="ROUT_DWord_24" signalType="output" signalAccessPath="24" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="oAAAAA=="/>
+				</Signal>
+				<Signal systemTag="ffafe981-3f6b-4d7b-8658-358f6398dc02" displayName="ROUT_DWord_28" signalType="output" signalAccessPath="28" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="wAAAAA=="/>
+				</Signal>
+				<Signal systemTag="0d53a05a-4594-4a3f-84d8-8756b91fc0df" displayName="ROUT_DWord_32" signalType="output" signalAccessPath="32" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="4AAAAA=="/>
+				</Signal>
+			</Module>
+		</Module>
+		<Module systemTag="9f75d5f7-e5c0-4709-8df1-6cbf1b303dd3" displayName="4 Bytes Output" moduleType="4 Bytes Output" moduleAddress="Slot 3">
+			<Module systemTag="e69c020d-9e86-4a46-99d5-b1b583d913ad" displayName="4 Bytes Output" moduleType="4 Bytes Output" moduleAddress="Subslot 1">
+				<Property id="6101" type="19" value="AAAAAA=="/><Signal systemTag="3e350016-f838-469a-a0cf-6cc67c37cf35" displayName="RIN_Bit_0.1" signalType="input" signalAccessPath="0.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AAAAAA=="/>
+				</Signal>
+				<Signal systemTag="ca335c22-c53c-4c2b-86ff-d1ab0c01aa78" displayName="RIN_Bit_0.1" signalType="input" signalAccessPath="0.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AQAAAA=="/>
+				</Signal>
+				<Signal systemTag="ee527e9b-bf50-4304-9f2f-4a2fa9cf2886" displayName="RIN_Bit_0.2" signalType="input" signalAccessPath="0.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AgAAAA=="/>
+				</Signal>
+				<Signal systemTag="1af7f6f1-2ee9-4ab5-a5df-179dfd6b04e2" displayName="RIN_Bit_0.3" signalType="input" signalAccessPath="0.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AwAAAA=="/>
+				</Signal>
+				<Signal systemTag="95436202-bc8c-41e7-bf6d-2c555e1759a9" displayName="RIN_Bit_0.4" signalType="input" signalAccessPath="0.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BAAAAA=="/>
+				</Signal>
+				<Signal systemTag="cbf8d7c0-5d84-481f-acb8-703d4908b1c2" displayName="RIN_Bit_0.5" signalType="input" signalAccessPath="0.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BQAAAA=="/>
+				</Signal>
+				<Signal systemTag="af62a2d9-a627-4cfb-997f-d5b82271c872" displayName="RIN_Bit_0.6" signalType="input" signalAccessPath="0.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BgAAAA=="/>
+				</Signal>
+				<Signal systemTag="7949d431-7a40-42e8-87ca-5218a652ec5a" displayName="RIN_Bit_0.7" signalType="input" signalAccessPath="0.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="BwAAAA=="/>
+				</Signal>
+				<Signal systemTag="17355705-aeea-4d50-9153-5f7536eec9c6" displayName="RIN_Bit_1.0" signalType="input" signalAccessPath="1.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CAAAAA=="/>
+				</Signal>
+				<Signal systemTag="ae51930b-7d6d-4e56-a4e6-50a134a045cb" displayName="RIN_Bit_1.1" signalType="input" signalAccessPath="1.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CQAAAA=="/>
+				</Signal>
+				<Signal systemTag="aaa48c22-0baa-49fb-b427-5c97b5bbd012" displayName="RIN_Bit_1.2" signalType="input" signalAccessPath="1.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CgAAAA=="/>
+				</Signal>
+				<Signal systemTag="f4d70978-7a6d-428a-b73b-a52bbe0f7ee7" displayName="RIN_Bit_1.3" signalType="input" signalAccessPath="1.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CwAAAA=="/>
+				</Signal>
+				<Signal systemTag="85a82da3-130f-474d-877b-41a09a27f9b4" displayName="RIN_Bit_1.4" signalType="input" signalAccessPath="1.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DAAAAA=="/>
+				</Signal>
+				<Signal systemTag="30606411-1ad8-4208-93a8-6c4633939e64" displayName="RIN_Bit_1.5" signalType="input" signalAccessPath="1.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DQAAAA=="/>
+				</Signal>
+				<Signal systemTag="05734339-9c98-4a6f-8b77-e4d39cf656d1" displayName="RIN_Bit_1.6" signalType="input" signalAccessPath="1.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DgAAAA=="/>
+				</Signal>
+				<Signal systemTag="a214527f-bb09-4529-b642-fb4d31677870" displayName="RIN_Bit_1.7" signalType="input" signalAccessPath="1.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="DwAAAA=="/>
+				</Signal>
+				<Signal systemTag="a3cdd1c5-df35-4bc7-b874-d88868cdc3b0" displayName="RIN_Bit_2.0" signalType="input" signalAccessPath="2.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EAAAAA=="/>
+				</Signal>
+				<Signal systemTag="e6509961-5a5f-47ec-8df9-04aedfc23a61" displayName="RIN_Bit_2.1" signalType="input" signalAccessPath="2.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EQAAAA=="/>
+				</Signal>
+				<Signal systemTag="70d1eaad-0543-4787-983e-267242e8ad11" displayName="RIN_Bit_2.2" signalType="input" signalAccessPath="2.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EgAAAA=="/>
+				</Signal>
+				<Signal systemTag="db775532-69da-429a-a3bf-d030afbdcd40" displayName="RIN_Bit_2.3" signalType="input" signalAccessPath="2.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EwAAAA=="/>
+				</Signal>
+				<Signal systemTag="a4d768c6-3120-4955-8e96-c9616b3bd163" displayName="RIN_Bit_2.4" signalType="input" signalAccessPath="2.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FAAAAA=="/>
+				</Signal>
+				<Signal systemTag="c0ad63eb-b1b7-4737-a99a-f421e123cd3d" displayName="RIN_Bit_2.5" signalType="input" signalAccessPath="2.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FQAAAA=="/>
+				</Signal>
+				<Signal systemTag="18e5fb68-bba6-4d05-ba07-caca4ffcc582" displayName="RIN_Bit_2.6" signalType="input" signalAccessPath="2.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FgAAAA=="/>
+				</Signal>
+				<Signal systemTag="0b7e623d-7332-4b6d-8c3f-c94761fe6570" displayName="RIN_Bit_2.7" signalType="input" signalAccessPath="2.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="FwAAAA=="/>
+				</Signal>
+				<Signal systemTag="5065c967-acf3-45d0-8b10-980efeb88597" displayName="RIN_Bit_3.0" signalType="input" signalAccessPath="3.0" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GAAAAA=="/>
+				</Signal>
+				<Signal systemTag="cdea4ef3-dcc2-44d2-b68a-f62249b18142" displayName="RIN_Bit_3.1" signalType="input" signalAccessPath="3.1" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GQAAAA=="/>
+				</Signal>
+				<Signal systemTag="ad237d9e-1d03-4a68-8748-1f5fe84c1a01" displayName="RIN_Bit_3.2" signalType="input" signalAccessPath="3.2" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GgAAAA=="/>
+				</Signal>
+				<Signal systemTag="41e0b58a-076b-4360-a4f6-516d6c80e88a" displayName="RIN_Bit_3.3" signalType="input" signalAccessPath="3.3" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GwAAAA=="/>
+				</Signal>
+				<Signal systemTag="3c401acf-ab88-4744-acd0-057a6ec32d03" displayName="RIN_Bit_3.4" signalType="input" signalAccessPath="3.4" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HAAAAA=="/>
+				</Signal>
+				<Signal systemTag="5a242ace-41a4-4f39-8fc6-33719efd9311" displayName="RIN_Bit_3.5" signalType="input" signalAccessPath="3.5" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HQAAAA=="/>
+				</Signal>
+				<Signal systemTag="ff246db0-6065-4362-bdae-ababefee7371" displayName="RIN_Bit_3.6" signalType="input" signalAccessPath="3.6" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HgAAAA=="/>
+				</Signal>
+				<Signal systemTag="7140a2ea-5d67-49c2-b300-945de718d7bd" displayName="RIN_Bit_3.7" signalType="input" signalAccessPath="3.7" dataType="bit" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="HwAAAA=="/>
+				</Signal>
+			</Module>
+		</Module>
+		<Module systemTag="ff60c1d3-5dc6-496b-bbd7-44937a258e9f" displayName="32 Bytes Output" moduleType="32 Bytes Output" moduleAddress="Slot 4">
+			<Module systemTag="695a0844-79f0-4841-a862-bc71944e5cde" displayName="32 Bytes Output" moduleType="32 Bytes Output" moduleAddress="Subslot 1">
+				<Property id="6101" type="19" value="IAAAAA=="/><Signal systemTag="d0920605-95fa-4e4f-9ed4-409865fbacdd" displayName="RIN_Byte_4" signalType="input" signalAccessPath="4" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="AAAAAA=="/>
+				</Signal>
+				<Signal systemTag="1bd520a2-c996-4eb0-b74f-23bac26af456" displayName="RIN_Byte_5" signalType="input" signalAccessPath="5" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="CAAAAA=="/>
+				</Signal>
+				<Signal systemTag="ea4825ee-937b-4c84-9190-83f24547695f" displayName="RIN_Byte_6" signalType="input" signalAccessPath="6" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="EAAAAA=="/>
+				</Signal>
+				<Signal systemTag="18b46a4c-1e48-4feb-a502-764e45531654" displayName="RIN_Byte_7" signalType="input" signalAccessPath="7" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="GAAAAA=="/>
+				</Signal>
+				<Signal systemTag="7df374eb-9947-4328-9809-0bdd167b34d1" displayName="RIN_Byte_8" signalType="input" signalAccessPath="8" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="IAAAAA=="/>
+				</Signal>
+				<Signal systemTag="19d83168-df34-4049-a40f-b3673f12abaa" displayName="RIN_Byte_9" signalType="input" signalAccessPath="9" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="KAAAAA=="/>
+				</Signal>
+				<Signal systemTag="034571b2-3e95-4f3a-bf91-2c7d0c28a8fb" displayName="RIN_Byte_10" signalType="input" signalAccessPath="10" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="MAAAAA=="/>
+				</Signal>
+				<Signal systemTag="53427790-2d58-4b2c-8981-2990c20f9683" displayName="RIN_Byte_11" signalType="input" signalAccessPath="11" dataType="byte" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="OAAAAA=="/>
+				</Signal>
+				<Signal systemTag="f0a128ac-29ae-4278-b8a9-94bf418d98a8" displayName="RIN_DWord_12" signalType="input" signalAccessPath="12" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="QAAAAA=="/>
+				</Signal>
+				<Signal systemTag="5466a8b2-69cf-4f9b-afb8-81b618cbcd1c" displayName="RIN_DWord_16" signalType="input" signalAccessPath="16" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="YAAAAA=="/>
+				</Signal>
+				<Signal systemTag="49b010bf-5d15-4461-a682-9183c181ba91" displayName="RIN_DWord_20" signalType="input" signalAccessPath="20" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="gAAAAA=="/>
+				</Signal>
+				<Signal systemTag="57228362-0fea-40d3-8378-ec9a528d4543" displayName="RIN_DWord_24" signalType="input" signalAccessPath="24" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="oAAAAA=="/>
+				</Signal>
+				<Signal systemTag="eaef2c08-bfb9-478f-9968-7b08c6d4347e" displayName="RIN_DWord_28" signalType="input" signalAccessPath="28" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="wAAAAA=="/>
+				</Signal>
+				<Signal systemTag="2ab9e759-b2a9-4da2-a17d-c77ce0aa968c" displayName="RIN_DWord_32" signalType="input" signalAccessPath="32" dataType="real32" arrayElements="1" opc="1">
+					<Property id="6103" type="19" value="4AAAAA=="/>
+				</Signal>
+			</Module>
+		</Module>
+		<Status systemTag="4532db3d-55d2-4619-b822-25017f9bc816" displayName="Status">
+			<Signal systemTag="fea947b5-8462-48fd-8abd-53d02a9cc8c5" displayName="Communication Change of State" signalType="input" signalAccessPath="0" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="268feaa5-ec11-4775-b92b-feb96830caaa" displayName="Communication State" signalType="input" signalAccessPath="4" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="54e047aa-671d-4096-bfeb-02cd36b37b60" displayName="Communication Error" signalType="input" signalAccessPath="8" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="8bdd6cc3-ddde-4c86-86c1-092cd876c2a8" displayName="Version" signalType="input" signalAccessPath="12" dataType="unsigned16" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="49a277b3-25f1-426a-b8b2-e362d2a6bcc3" displayName="Watchdog Timeout" signalType="input" signalAccessPath="14" dataType="unsigned16" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="883b2dc0-7e1c-49f3-81fe-33cb3dfcba02" displayName="Host Watchdog" signalType="input" signalAccessPath="20" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="9c4a7b2b-60eb-48c3-b7de-5dbc73dd7e8d" displayName="Error Count" signalType="input" signalAccessPath="24" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+			<Signal systemTag="50654f5e-4e83-4e2c-afe4-94e45a4f2c7c" displayName="Error Log Indicator" signalType="input" signalAccessPath="28" dataType="unsigned32" opc="0" blockNumber="0">
+			</Signal>
+		</Status>
+	</Adapter>
+</ProcessData>

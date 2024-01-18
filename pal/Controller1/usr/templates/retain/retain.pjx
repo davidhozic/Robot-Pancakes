@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3">
+  <Parameters millimeterUnit="true" retain="true" stackSize="5000" version="s8.15.3cs9_BS3337"/>
+  <Programs/>
+  <Database>
+    <Data file="retain.dtx"/>
+  </Database>
+  <Libraries/>
+</Project>

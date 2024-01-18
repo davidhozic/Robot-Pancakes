@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2" >
+  <Program name="safety" access="private" >
+    <Locals>
+      <Local name="l_brestart" type="bool" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+
+  // TASK KI SKRBI ZA VARNOST - TEGA TASKA NIKOLI NE PREKINJAŠ  
+  // tu ne spreminjaj ničesar
+  // če odpremo vrata ali pritisnemo rdeč Emergency STOP gumb, se robot ustavi 
+  // ko zapremo vrata se aplikacija samodejno nadaljuje kjer smo jo ustavili
+
+  do
+
+    // če je safety status 2, se je robot zaustavil zaradi odprtih vrat
+    // ko zapremo vrata, se status nastavi na 0 in ob potrditvi nadaljujemo program
+
+    switch esStatus()
+
+      //vse ok
+      case 0
+      break
+
+      //reset, ko sprostimo E-STOP tipko
+      case 1
+        sDiag="Robot ustavljen zaradi pritiska gumba"
+        l_brestart=userPageConfirm("Restartam?")
+        if (l_brestart)
+          setSafetyRestart()
+          sDiag="Varni restart JE USPEL"
+          enablePower()
+          stopMove()
+          resetMotion()
+          sDiag="Gibanje je ustavljeno in resetirano"
+        else
+          sDiag="Varni restart NI USPEL"
+        endIf
+      break
+
+      // če se je zgodil safety stop
+      case 2
+
+        sDiag="Robot ustavljen zaradi odprtih vrat"
+
+        //v primeru, da stisnemo E-STOP je esSafety=2 do sprostitve gumba, ko je potreben nadaljni reset
+        //v nasprotnem primeru so bila odprta vrata
+
+        wait(esStatus()==0 or esStatus()==1)
+        if esStatus()==0
+          sDiag="Nadaljujem!"
+          enablePower()
+          sDiag="Robot je varen za uporabo."
+        else
+          sDiag="Zapri vrata, da lahko nadaljujem!"
+        endIf
+      break
+    endSwitch
+  until false
+
+end]]></Code>
+  </Program>
+</Programs>

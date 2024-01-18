@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="cakajProgress">
+    <Parameters xmlns="http://www.staubli.com/robotics/VAL3/Param/1">
+      <Parameter name="x_nCas" type="num" xsi:type="element" />
+    </Parameters>
+    <Locals>
+      <Local name="l_nNuml_nStartTime" type="num" xsi:type="array" size="1" />
+      <Local name="l_nTimeRazlika" type="num" xsi:type="array" size="1" />
+      <Local name="l_nStartTime" type="num" xsi:type="array" size="1" />
+    </Locals>
+    <Code><![CDATA[begin
+  // cakajProgress
+  // @param x_nCas(num)  Funkcija resetira progress bar in s pomocjo razlike
+  // casa prek clock() funkcije steje koliko casa je preostalo do konca, medtem ko
+  // posodablja progress bar (nProgress) na grafičnem vmesniku
+  
+  // Resetiraj progress display
+  nProgress = 0
+  // Postavi casovno razliko na 0
+  l_nTimeRazlika = 0
+  // Trenutno pretekle sekunde
+  l_nStartTime = clock()
+  while l_nTimeRazlika < x_nCas
+    delay(0.1)
+    l_nTimeRazlika = clock() - l_nStartTime
+    nProgress = min(100*l_nTimeRazlika/x_nCas, 100)
+  endWhile
+end]]></Code>
+  </Program>
+</Programs>

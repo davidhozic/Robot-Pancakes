@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://www.staubli.com/robotics/VAL3/Project/3">
+  <Parameters version="s8.15.3Cs9_BS3337" stackSize="20000" millimeterUnit="true" />
+  <Programs>
+    <Program file="avtomatskiCikel.pgx" />
+    <Program file="cakajProgress.pgx" />
+    <Program file="DodajMaso.pgx" />
+    <Program file="Glavni.pgx" />
+    <Program file="naKroznik.pgx" />
+    <Program file="obrat.pgx" />
+    <Program file="reset.pgx" />
+    <Program file="safety.pgx" />
+    <Program file="start.pgx" />
+    <Program file="stop.pgx" />
+    <Program file="taski.pgx" />
+    <Program file="vHome.pgx" />
+  </Programs>
+  <Database>
+    <Data file="Palacinke.dtx" />
+  </Database>
+  <Libraries />
+</Project>

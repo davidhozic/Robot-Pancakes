@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="taski">
+    <Code><![CDATA[begin
+
+  // glede na to kateri gumb pritisnemo na uporabniškemu umesniku, začnemo novo opravilo
+  // taske uporabljamo zato, da vsakič ko pritisnemo reset, končamo vsa opravila in se vsi ukazi gibanja pobrišejo, robot pa se ustavi in lahko gre po varni poti v home
+
+  if isPowered()
+    // Ne naredi novega taska, ce eden ze deluje
+    // nTaskWorking se pristeje vsakic ko se zacne izvajati eden od "pravih" podprogramov
+    // in odsteje ko se eden od podprogramov neha izvajati
+    // Posledično mora biti nTaskWorking enako 0, zato da zagotovo ni v nobenem podprogramu
+    if nTaskWorking > 0 and nGumb != 2
+      return
+    endIf
+    
+    switch nGumb
+      case 1
+        sDiag="Peka ene palačinke"
+        taskCreate "palacinka",40,Glavni()
+      break
+
+      case 2
+        sDiag="Ustavljam gibanje"
+        call reset()
+      break
+
+      case 3
+        sDiag="Vlivam maso na ponev"
+        taskCreate "masa",40,DodajMaso()
+      break
+
+      case 4
+        sDiag="Obračam"
+        taskCreate "obrat",40,obrat()
+      break
+
+      case 5
+        sDiag="Prenašam palačinko na krožnik"
+        taskCreate "kroznik",40,naKroznik()
+      break
+
+      case 6
+        sDiag="Avtomatska peka palačink"
+        taskCreate "samodejno",40,avtomatskiCikel()
+      break
+
+      case 7
+        sDiag="Grem v osnovni položaj"
+        taskCreate "home",40,vHome()
+      break
+
+      default
+      break
+
+    endSwitch
+
+  else
+    sDiag="POZOR! Ni varno za peko palačink"
+  endIf
+end]]></Code>
+  </Program>
+</Programs>

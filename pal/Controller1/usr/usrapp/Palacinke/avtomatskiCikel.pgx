@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Programs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.staubli.com/robotics/VAL3/Program/2">
+  <Program name="avtomatskiCikel">
+    <Code><![CDATA[begin
+
+  // neskončna zanka pečenja palačink
+
+  do
+  //  call DodajMaso()
+    //sDiag="Pečem prvo stran"
+   // delay(nCas_peke1)
+    //call obrat()
+    //sDiag="Pečem drugo stran"
+    //delay(nCas_peke2)
+    //call naKroznik()
+    call Glavni()
+  until false
+end]]></Code>
+  </Program>
+</Programs>
