@@ -29,19 +29,7 @@ Showcase
 ===================
 The following videos show how the robot works.
 
-.. raw:: html
 
-    <iframe width="560" height="315"
-    src="https://www.youtube.com/embed/hvL5HrFYIbQ?si=VXydMb7YQ68hfHx6"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
-    encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/rapcsV_Vs6E?si=cuEQOVzlFBghtyQC"
-    title="YouTube video player"
-    frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture;
-    web-share" allowfullscreen></iframe>
-
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Xcvc2gvJSdQ?si=9JeSP4ba_3nUkyuI"
-    title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media;
-    gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
+.. image:: https://i.ytimg.com/vi/hvL5HrFYIbQ/maxresdefault.jpg
+    :target: https://www.youtube.com/watch?v=hvL5HrFYIbQ
