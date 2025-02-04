@@ -6,9 +6,6 @@ The robot used is an anthropomorphic 6-axis Staubli arm.
 Robot was provided by `Domel <https://www.domel.com/>`_.
 
 
-.. image:: ./images/display.jpg
-
-
 
 Cell structure
 ======================
